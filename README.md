@@ -35,21 +35,19 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/dimpukj">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40"/>
+<a href="https://linkedin.com/in/dimpukj" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/dimpu_kj/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40"/>
+<a href="https://leetcode.com/u/dimpu_kj/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/Dimpukj">
-<img src="https://cdn.simpleicons.org/github/white" height="40" width="40"/>
+<a href="https://github.com/Dimpukj" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
----
 
 ## ⚙️ Tech Stack
 
