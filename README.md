@@ -27,22 +27,26 @@
 * 🎓 CSE (AIML) Student at NIE Mysuru
 * 🌱 Learning **DSA, Full Stack & AI/ML**
 * 🤝 Open to **projects, hackathons & open-source**
-* 📫 **[dimpukj11@gmail.com](mailto:dimpukj11@gmail.com)**
+* 📫 **dimpukj11@gmail.com**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/dimpukj">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40"/>
 </a>
+
 <a href="https://leetcode.com/u/dimpu_kj/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" width="40"/>
 </a>
+
 <a href="https://github.com/Dimpukj">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://cdn.simpleicons.org/github/white" height="40" width="40"/>
 </a>
+
 </p>
 
 ---
@@ -65,14 +69,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimpukj&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-* 🔹 Add your best project here
-* 🔹 Add your best project here
-* 🔹 Add your best project here
 
 ---
 
