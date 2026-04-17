@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+impactful+projects+🚀;Exploring+AI%2FML+%26+Full+Stack;Consistent+Learner+%F0%9F%92%AA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+impactful+projects+🚀;Exploring+AI%2FML+%26+Full+Stack;Consistent+Learner+💪" />
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@
 </a>
 <a href="https://github.com/Dimpukj">
 <img src="https://img.shields.io/github/followers/Dimpukj?label=Followers&style=social" />
+</a>
+<a href="https://leetcode.com/u/dimpu_kj/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white"/>
 </a>
 </p>
 
@@ -34,7 +37,7 @@
 <a href="https://linkedin.com/in/dimpukj">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.leetcode.com/dimpu_kj/">
+<a href="https://leetcode.com/u/dimpu_kj/">
 <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
 </a>
 <a href="https://github.com/Dimpukj">
@@ -62,9 +65,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimpukj&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
 
 
 ## ⚡ Fun Fact
