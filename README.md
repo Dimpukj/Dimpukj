@@ -59,9 +59,11 @@
 
 ## ⚔️ GitHub Stats
 
+## ⚔️ GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimpukj&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dimpukj&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpukj&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
