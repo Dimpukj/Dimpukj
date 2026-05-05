@@ -59,29 +59,13 @@
 
 ## ⚔️ GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimpukj&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dimpukj&theme=github_dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dimpukj&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dimpukj&theme=github_dark&utcOffset=5.5" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimpukj&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dimpukj&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimpukj&theme=github_dark" />
 </p>
-
----
-
----
-
-
-
-
----
 
 
