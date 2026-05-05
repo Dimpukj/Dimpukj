@@ -55,19 +55,27 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,express,mongodb,mysql,git" />
 </p>
 
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
+
+## ⚔️ GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan04pp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
