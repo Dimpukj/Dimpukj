@@ -59,15 +59,23 @@
 
 
 
-## ⚔️ GitHub Stats
+## ⚔️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimpukj&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpukj&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dimpukj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpukj&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimpukj&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Dimpukj&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimpukj&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dimpukj&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 
